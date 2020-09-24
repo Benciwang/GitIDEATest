@@ -1,2 +1,2 @@
 # GitIDEATest
-Learn git in IDEA
+Learn git in IDEA push
